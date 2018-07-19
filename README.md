@@ -1,5 +1,5 @@
 # Placement Prepration
-Hello everyone, I have created this repository specificallay for competitive questions and prepration for placements.
+Hello everyone, I have created this repository specifically for competitive questions and for placements preparation.
 ### Prepare for data structures and algorithms:
 - [GeekForGeeks](https://www.geeksforgeeks.org/):
     - [Data Structures](https://www.geeksforgeeks.org/data-structures/)
